@@ -20,3 +20,9 @@
 2) `todolist/index.html` 파일을 브라우저로 열면 바로 실행됩니다.
 
 ## 폴더 구조
+todolist/
+├─ index.html
+├─ CSS/
+│ └─ style.css
+└─ JS/
+└─ app.js
